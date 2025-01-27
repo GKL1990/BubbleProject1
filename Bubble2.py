@@ -1,7 +1,7 @@
 """
 Program to show a water drop hitting the surface
 Move the slider based on a timer
-Provide buttons to play, pause, and step the slider
+Provide buttons to step the slider
 """
 
 import numpy as np
